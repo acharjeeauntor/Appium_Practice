@@ -1,4 +1,3 @@
-
 package org.example;
 
 import io.appium.java_client.android.AndroidDriver;
